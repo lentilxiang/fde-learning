@@ -1,0 +1,12 @@
+.DS_Store
+**/.DS_Store
+._*
+*~
+
+# 验证过程中的临时截图
+preview-*.png
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
