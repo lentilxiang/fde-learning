@@ -39,6 +39,9 @@ open index.html
 .
 ├── index.html               # 离线完整课件（双击打开）
 ├── 学习路线.md               # 16 天 / 32 小时学习计划
+├── 标准答案/                 # 各天验收题的标准答案（按课程原文口径）
+│   └── Day1.md
+├── 错题本.md                 # 只记答错/答漏，Day 16 复习用
 ├── course-fulltext.md       # Markdown 全文（144KB，便于检索与 diff）
 ├── offline-interactive.js   # 离线交互层（判题/翻卡/排序/复制）
 ├── toc.json                 # 目录树
