@@ -53,7 +53,8 @@ open index.html
 │   ├── 素材_智能体应用模式选择说明.docx
 │   └── 销售明细表.xlsx
 ├── raw/                     # 抓取到的原始章节 HTML（复现用）
-└── tools/                   # 抓取与验收脚本
+├── tools/                   # 抓取与验收脚本
+└── datawhale-fde100/        # 独立配套：Datawhale FDE 案例 100（244 页图集，非课程内容）
 ```
 
 ---
@@ -108,3 +109,6 @@ open index.html
 ## 说明
 
 课程内容版权归腾讯云所有，本仓库仅作个人学习归档，请勿用于商业用途。
+
+`datawhale-fde100/` 是独立的配套案例图集（244 页，421MB），不属于本课程，学习路线未包含它。
+它占了仓库约 78% 的体积，只想读课程可以用 `git clone --filter=blob:none --sparse` 排除，见该目录的 README。
