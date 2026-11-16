@@ -41,7 +41,7 @@ open index.html
 ├── 学习路线.md               # 16 天 / 32 小时学习计划
 ├── 标准答案/                 # 各天验收题的标准答案（按课程原文口径）
 │   └── Day1.md
-├── 错题本.md                 # 只记答错/答漏，Day 16 复习用
+├── 笔记.md                   # 学习笔记：知识点 + 易错点 + 需背诵原句
 ├── course-fulltext.md       # Markdown 全文（144KB，便于检索与 diff）
 ├── offline-interactive.js   # 离线交互层（判题/翻卡/排序/复制）
 ├── toc.json                 # 目录树
